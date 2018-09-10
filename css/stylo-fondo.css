@@ -1,0 +1,77 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background: url("../img/fondo.jpg");
+  background-size: cover;
+}
+
+.header{
+  width: 100%;
+  height: 80px;
+  background: rgba(97, 148, 140, 0.27);
+  display: flex;
+  overflow: hidden;
+}
+
+img{
+  width: 100px;
+  height: 50px;
+}
+
+.header nav {
+float: right;
+line-height: 50px;
+margin-top: 15px;
+}
+
+
+.header nav a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 30px;
+  font-size: 20px;
+  line-height: normal;
+  color: white;
+}
+
+header nav a:hover{
+  background: #4290c4;
+  border-radius: 5px;
+}
+
+form{
+    margin: auto;
+    width: 300px;
+    height: 190px;
+    text-align: center;
+    background: #c2c2c2;
+    padding-top: 30px;
+    box-shadow:  3px -10px 10px #000000;
+}
+
+.inputs {
+  margin-top: 170px;
+}
+
+input{
+margin: 15px;
+padding: 5px;
+border-radius: 4px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.p-2{
+  font-size: 15px;
+}
+
+button{
+  padding: 5px;
+  border-radius: 5px;
+  background: #c2c2c2;
+}

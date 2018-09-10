@@ -1,0 +1,16 @@
+
+body{
+  background: #fffffa;
+}
+
+.contenedor{
+  width: 80%;
+  height: 400px;
+  background: #c2c2c2;
+  margin: auto;
+}
+
+.texto{
+  display: flex;
+justify-content:space-around;
+}
