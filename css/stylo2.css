@@ -14,3 +14,20 @@ body{
   display: flex;
 justify-content:space-around;
 }
+
+footer{
+  width: 100%;
+  height: 80px;
+  background: #c2c2c2;
+
+}
+
+.nota-f1{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.p-footer{
+  margin-top: 30px;
+}
